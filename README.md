@@ -1,4 +1,4 @@
-# Computer Scientist
+### Doctoral Candidate 
 
 #### Technical Skills: Python, C++
 
