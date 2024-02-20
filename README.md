@@ -7,6 +7,8 @@
 Ph.D., Computer Science | The University of Oklahoma (December 2025)
 B.S., Computer Science | Howard University (May 2019)
 
+### Research Area 
+
 ### Work Experience
 #### University of Oklahoma, Graduate Research/Teaching Assistant (August 2020 - Present)
 * Conduct and assist with OU Data Lab research by using historical data to analyze the benefits of building smart cities
