@@ -25,4 +25,4 @@ for GeoAccessor and GeoSeriesAccessor.
 
 
 ### Fun Fact(s)
-![SJ Playing the talking drum](/assets/img/sj.jpeg)
+![SJ Playing the talking drum](/assets/img/SJ.jpeg)
