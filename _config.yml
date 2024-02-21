@@ -1,8 +1,12 @@
 title: SJ Ajisegiri
-#description: text below image
+description: Welcome to my bottomless pit
 logo: /assets/img/SJ.jpeg
 #theme: jekyll-theme-minimal
 #theme: jekyll-theme-cayman
 show_downloads: true
 google_analytics:
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
+
+
+
+
